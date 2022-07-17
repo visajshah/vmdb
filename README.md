@@ -30,7 +30,6 @@ User can query based on the following parameters: (querying based on multiple pa
 - Label
 
 ## Some screenshots:
-![WhatsApp Image 2022-07-17 at 10 38 02 AM (1)](https://user-images.githubusercontent.com/43022912/179386320-35848ee9-b9ae-4c41-abec-b6f367b6535d.jpeg)
-![WhatsApp Image 2022-07-17 at 11 07 59 AM](https://user-images.githubusercontent.com/43022912/179386321-015ec881-38d5-43b4-bff8-bcf98680f4d7.jpeg)
-![WhatsApp Image 2022-07-17 at 10 38 02 AM](https://user-images.githubusercontent.com/43022912/179386323-e3229c69-cc61-4447-9a86-1031788d6bcc.jpeg)
-
+![WhatsApp Image 2022-07-17 at 10 38 02 AM (1)](https://user-images.githubusercontent.com/43022912/179386375-6dd933f4-5e07-4bf8-bde8-2652ae2a392f.jpeg)
+![WhatsApp Image 2022-07-17 at 11 07 59 AM](https://user-images.githubusercontent.com/43022912/179386383-ba40911d-72ca-467e-ab4a-87c591195174.jpeg)
+![WhatsApp Image 2022-07-17 at 10 38 02 AM](https://user-images.githubusercontent.com/43022912/179386390-3d024bcc-20d0-4d8a-8032-2a7c0a55369c.jpeg)
