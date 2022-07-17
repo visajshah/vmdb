@@ -1,7 +1,9 @@
 # vmdb
 A small-scale combination model of IMDb (Internet Movie Database) and Letterboxd for use at a personal level.
 
-Features in VMDb:
+Android users can download the app.apk file from [here](build\app\outputs\apk\). I had to discontinue the Firebase database, but the app still installs and shows the different functionalities.
+
+## Features in VMDb:
 
 User can input the following details of a film/ series:
 - Name
@@ -26,3 +28,5 @@ User can query based on the following parameters: (querying based on multiple pa
 - Year
 - Type
 - Label
+
+## Some screenshots:
